@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lichao20181225</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_shop_details">ShopDetailsActivity</string>
+</resources>
